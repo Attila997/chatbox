@@ -1,2 +1,2 @@
 # chatbox
-Messneger clone with MERN stack and socket.io
+Messenger clone with MERN stack and socket.io
